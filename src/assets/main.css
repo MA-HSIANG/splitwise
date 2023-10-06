@@ -1,0 +1,10 @@
+@import "./base.css";
+
+#app {
+  font-size: 62.5%;
+  max-width: 128rem;
+
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
